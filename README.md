@@ -1,6 +1,6 @@
 # PCBProjectV3
 Version 3 of the PCB
-
+This PCB is a owl shaped pcb that has two lights for eys!
 
 
 ![image](https://github.com/user-attachments/assets/f2729600-b4ae-4028-ae36-929caf9dbd33)
